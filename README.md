@@ -9,7 +9,8 @@ Un nouveau design basé sur les principes du Material Design vient d’être ré
 
 la maquette desktop et mobile du site.
 les images du site avec différents formats.
-Contraintes
+
+Contraintes:
 
 Le site doit se faire en HTML et CSS sans frameworks.
 Les icônes proviennent de Font Awesome.
